@@ -14,3 +14,10 @@ Desarrollar un CMR para la  empresa X, con la metodologia Scrum y las herramient
 - CVS:
 ## ARQUITECTURA 
 La arquitectura sera
+
+##METODOLOGIA
+La metodologia para el desarrollo de la aplicacion sera SCRUM, EN 4 SPRINTS
+- [] Sprint 1
+- [] Sprint 2
+- [] Sprint 3
+- [] Sprint 4
