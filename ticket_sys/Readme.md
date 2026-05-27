@@ -1,5 +1,4 @@
-[1:36 p.m., 26/5/2026] Vic: # TICKET_SYST
-*
+# TICKET_SYS
 ##DESCRIPCION
 CRM para el control de devolucion y quejas
  
